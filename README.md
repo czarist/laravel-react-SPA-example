@@ -2,6 +2,8 @@
 
 criar banco de dados MySQL localmente com o nome "rest" / make a local database with MySQL and names it "rest"
 
+renomeie o arquivo ".env.example" para ".env" / rename the file ".env.example" for ".env" 
+
 commands: 
 
 1. /cd backend
