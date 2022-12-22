@@ -11,7 +11,7 @@ commands:
 3. php artisan migrate
 4. php artisan db:seed --force
 5. php artisan serve
-6. cd ../
+6. new terminal
 7. cd frontend
 8. npm install
 9. npm start
