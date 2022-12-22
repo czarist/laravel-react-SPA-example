@@ -1,6 +1,6 @@
 
 
-criar banco de dados MySQL localmente com o nome "rest" / create local database with MySQL and names it "rest"
+criar banco de dados MySQL localmente com o nome "rest" / make a local database with MySQL and names it "rest"
 
 commands: 
 
@@ -13,3 +13,4 @@ commands:
 7. cd frontend
 8. npm install
 9. npm start
+10. default user: admin@admin.com - admin@123
